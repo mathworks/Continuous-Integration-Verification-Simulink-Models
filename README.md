@@ -76,7 +76,7 @@ Products/Toolboxes Required
 
 License
 =======
-The license for Continuous Integration for Verification of Simulink Models is available in the [license.txt](license.txt) file in this repository.
+The license for Continuous Integration for Verification of Simulink Models is available in the [License.txt](License.txt) file in this repository.
 
 
 
